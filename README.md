@@ -6,5 +6,3 @@ Welcome to the game of Super Mario
 Scene 2
 
 
-
-
